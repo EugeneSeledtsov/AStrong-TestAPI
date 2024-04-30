@@ -1,0 +1,6 @@
+@AStrong_TestAPI_HostAddress = http://localhost:5204
+
+GET {{AStrong_TestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
